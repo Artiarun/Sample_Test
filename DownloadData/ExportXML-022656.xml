@@ -1,0 +1,668 @@
+<?xml version="1.0" standalone="yes"?>
+<Category>
+  <CategoryCode>
+    <Category_x0020_Code>002211</Category_x0020_Code>
+    <Description>24/24</Description>
+    <Budget>1100000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>66</Category_x0020_Code>
+    <Description>66</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>77</Category_x0020_Code>
+    <Description>77</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>A001</Category_x0020_Code>
+    <Description>Checking For testing</Description>
+    <Budget>10.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Accom</Category_x0020_Code>
+    <Description>Accommodations</Description>
+    <Budget>9300.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Advertisement</Category_x0020_Code>
+    <Description>Marketing team</Description>
+    <Budget>12000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>AnimalWelfare</Category_x0020_Code>
+    <Description>Animal Welfare</Description>
+    <Budget>1000000.0000</Budget>
+    <Active>false</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Architectural</Category_x0020_Code>
+    <Description>Architectural Srvs</Description>
+    <Budget>6818.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Automation Tester</Category_x0020_Code>
+    <Description>Auto</Description>
+    <Budget>1020000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>AVEquip</Category_x0020_Code>
+    <Description>A/V Equipment</Description>
+    <Budget>454564.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Bathroom</Category_x0020_Code>
+    <Description>Bathroom</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Bldg Constructions-1</Category_x0020_Code>
+    <Description>Building Construction and main</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>BldgConstruction</Category_x0020_Code>
+    <Description>Building Construction</Description>
+    <Budget>456000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>BuildingMaint</Category_x0020_Code>
+    <Description>Building Maintenance</Description>
+    <Budget>250000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>C001</Category_x0020_Code>
+    <Description>Miscellaneous Expences</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>cat</Category_x0020_Code>
+    <Description>ct</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Chemical</Category_x0020_Code>
+    <Description>Chemical Compounds</Description>
+    <Budget>1000000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Conduit</Category_x0020_Code>
+    <Description>Conduits</Description>
+    <Budget>200000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>ConferenceFees</Category_x0020_Code>
+    <Description>Conference Fees</Description>
+    <Budget>2456.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>ConsultHrs</Category_x0020_Code>
+    <Description>Consulting Hours</Description>
+    <Budget>5000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>CrownPlaza</Category_x0020_Code>
+    <Description>Crown Plaza Brand</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Data and Informatics</Category_x0020_Code>
+    <Description>Data and Info Services</Description>
+    <Budget>78777.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Development</Category_x0020_Code>
+    <Description>Development</Description>
+    <Budget>6554.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>EBA Category</Category_x0020_Code>
+    <Description>EBA Default Category For Sage</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Electrical</Category_x0020_Code>
+    <Description>Electrical</Description>
+    <Budget>25000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Elephants</Category_x0020_Code>
+    <Description>Elephants</Description>
+    <Budget>100000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-Audio</Category_x0020_Code>
+    <Description>Audio Equipment</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-AudioMics</Category_x0020_Code>
+    <Description>Audio Microphones</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-AudioMixers</Category_x0020_Code>
+    <Description>Audio Mixers</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-AudioSources</Category_x0020_Code>
+    <Description>Audio Sources</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-Drape</Category_x0020_Code>
+    <Description>Drapes</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>FixturesFittings</Category_x0020_Code>
+    <Description>Fixtures &amp; Fittings</Description>
+    <Budget>66786.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-LCD</Category_x0020_Code>
+    <Description>LCD Equipment</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Food</Category_x0020_Code>
+    <Description>Food</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Furniture</Category_x0020_Code>
+    <Description>Furniture</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-Video</Category_x0020_Code>
+    <Description>Video Equipment</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-VideoDisplays</Category_x0020_Code>
+    <Description>Video Displays</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>F-VideoSources</Category_x0020_Code>
+    <Description>Video Sources</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>GenBiz</Category_x0020_Code>
+    <Description>General Business</Description>
+    <Budget>24243.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Glass</Category_x0020_Code>
+    <Description>Glass panels</Description>
+    <Budget>40200.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>h/w</Category_x0020_Code>
+    <Description>hardware</Description>
+    <Budget>25000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>HIV</Category_x0020_Code>
+    <Description>Habitat In Vitro</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Hotels</Category_x0020_Code>
+    <Description>Hotel Accomodation</Description>
+    <Budget>300000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>IT Hardware</Category_x0020_Code>
+    <Description>IT Hardware</Description>
+    <Budget>230000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Labels</Category_x0020_Code>
+    <Description>Labels</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Lions</Category_x0020_Code>
+    <Description>Lions</Description>
+    <Budget>4000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Magazines</Category_x0020_Code>
+    <Description>Magazines</Description>
+    <Budget>3451.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>MaintEquip</Category_x0020_Code>
+    <Description>Maintenance Equipment</Description>
+    <Budget>2433.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Marketing</Category_x0020_Code>
+    <Description>Marketing</Description>
+    <Budget>250000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>MealsEntertain</Category_x0020_Code>
+    <Description>Meals &amp; Entertainment</Description>
+    <Budget>643345.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Miscellaneous</Category_x0020_Code>
+    <Description>Miscellaneous</Description>
+    <Budget>500000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>MiscExpenses</Category_x0020_Code>
+    <Description>Misc Office Expenses</Description>
+    <Budget>2342.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>MiscServices</Category_x0020_Code>
+    <Description>Maintenance Services</Description>
+    <Budget>23424.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Monitors</Category_x0020_Code>
+    <Description>Monitors</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Monkeys</Category_x0020_Code>
+    <Description>Monkeys</Description>
+    <Budget>100000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Newspapers</Category_x0020_Code>
+    <Description>Newspapers</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>OfficeEquip</Category_x0020_Code>
+    <Description>Office Equipment</Description>
+    <Budget>645645.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>OfficeFurn</Category_x0020_Code>
+    <Description>Office Furniture</Description>
+    <Budget>456456.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>OfficeMisc</Category_x0020_Code>
+    <Description>Office Miscellenous</Description>
+    <Budget>6767.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>OfficeSupp</Category_x0020_Code>
+    <Description>Office Supplies</Description>
+    <Budget>43454.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>PC's</Category_x0020_Code>
+    <Description>User PC's</Description>
+    <Budget>5000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>PDAs</Category_x0020_Code>
+    <Description>PDA</Description>
+    <Budget>300000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Peripherals</Category_x0020_Code>
+    <Description>Peripherals</Description>
+    <Budget>10000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Pipes</Category_x0020_Code>
+    <Description>Pipes &amp; Fittings</Description>
+    <Budget>1000000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Pipes 8"</Category_x0020_Code>
+    <Description>8" pipes &amp; fittings</Description>
+    <Budget>300000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>PrintCart</Category_x0020_Code>
+    <Description>Printer Cartridges</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Printers</Category_x0020_Code>
+    <Description>Printers</Description>
+    <Budget>150000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Printing</Category_x0020_Code>
+    <Description>Printing Srvs</Description>
+    <Budget>567567.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>ProfessFees</Category_x0020_Code>
+    <Description>Professional Fees</Description>
+    <Budget>186767.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Publications</Category_x0020_Code>
+    <Description>Books &amp; Publications</Description>
+    <Budget>23234.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>QB Category</Category_x0020_Code>
+    <Description>Quick Book Category</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Research Lab</Category_x0020_Code>
+    <Description>Research Lab</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Security</Category_x0020_Code>
+    <Description>Security</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>SecurityProducts</Category_x0020_Code>
+    <Description>Security Products</Description>
+    <Budget>45645.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>SecurityServ</Category_x0020_Code>
+    <Description>Security Services</Description>
+    <Budget>45640.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Servers</Category_x0020_Code>
+    <Description>Main Server Equipment</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Services</Category_x0020_Code>
+    <Description>Services</Description>
+    <Budget>250000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Software</Category_x0020_Code>
+    <Description>Software Products</Description>
+    <Budget>564545.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Stationery</Category_x0020_Code>
+    <Description>Stationery</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Sub-Chem</Category_x0020_Code>
+    <Description>Sub-Chemicals</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Supplies</Category_x0020_Code>
+    <Description>Maintenance Supplies</Description>
+    <Budget>456456.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TA1010</Category_x0020_Code>
+    <Description>Travelling allowance</Description>
+    <Budget>1200.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TechConsumables</Category_x0020_Code>
+    <Description>Technology Consumables</Description>
+    <Budget>56443.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TechHardware</Category_x0020_Code>
+    <Description>Technology Hardware</Description>
+    <Budget>397890.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TechMisc</Category_x0020_Code>
+    <Description>Technology Misc</Description>
+    <Budget>775556.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Technology</Category_x0020_Code>
+    <Description>Technology (IT)</Description>
+    <Budget>700000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TechnologyAccory</Category_x0020_Code>
+    <Description>Technology Accessories</Description>
+    <Budget>4564.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TechSrvs</Category_x0020_Code>
+    <Description>Technology Services</Description>
+    <Budget>94433.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Telecoms</Category_x0020_Code>
+    <Description>Telecoms</Description>
+    <Budget>555543.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>test</Category_x0020_Code>
+    <Description>test</Description>
+    <Budget>45833.3700</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>TextBooks</Category_x0020_Code>
+    <Description>Text Books</Description>
+    <Budget>60000.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Training</Category_x0020_Code>
+    <Description>Training</Description>
+    <Budget>256456.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Transportation</Category_x0020_Code>
+    <Description>Transportation</Description>
+    <Budget>5100.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Travel</Category_x0020_Code>
+    <Description>Travel</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+  <CategoryCode>
+    <Category_x0020_Code>Water</Category_x0020_Code>
+    <Description>Water</Description>
+    <Budget>0.0000</Budget>
+    <Active>true</Active>
+    <Site_x0020_Code>Default</Site_x0020_Code>
+  </CategoryCode>
+</Category>

@@ -1,0 +1,8 @@
+-To run all feature file:
+mvn clean verify -DtagName=~@ignore -DBROWSER=chrome -Denv=uat
+
+-To run  perticular feature file:
+mvn clean verify -DtagName=@ feature file name -DBROWSER= browser name -Denv= environment name   
+ 
+
+
